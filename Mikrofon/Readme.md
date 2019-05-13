@@ -11,3 +11,8 @@ Du benätigst
 
 ## Schaltplan
 Der Bauteile wie folgt verbinden: ![Schaltplan](./Schaltung.png)
+
+## Links
+
+(Mikrofon Anschluss am ESP)[https://tkkrlab.nl/wiki/Arduino_KY-038_Microphone_sound_sensor_module]
+
