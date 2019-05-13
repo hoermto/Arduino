@@ -7,7 +7,7 @@ Zeigt auf einem Lampenkreis/kette an, wie weit etwas entfernt ist.
 ### Laufband
 Verschiedene Farben auf einer lampenkette/kreis hintereinander.
 
-### Microfon
+### Mikrofon
 Je lauter es ist, desto länger die Lampenkette.
 
 ### Beispiele
